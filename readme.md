@@ -1,4 +1,4 @@
-# dj
+# deser
 json to deserializable structure program (supports C#, Rust, and Go)
 
 ## what does this do
